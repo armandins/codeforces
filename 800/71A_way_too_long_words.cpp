@@ -1,3 +1,16 @@
+//	input
+//4
+//word
+//localization
+//internationalization
+//pneumonoultramicroscopicsilicovolcanoconiosis
+
+//	output
+//word
+//l10n
+//i18n
+//p43s
+
 #include <iostream>
 #include <string>
 using namespace std;

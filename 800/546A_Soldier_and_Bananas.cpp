@@ -1,3 +1,6 @@
+/* Arman Dindar Safa */
+// Please keep my name in here if you are willing to use the solution
+
 #include <iostream>
 
 // k = cost of first banana
